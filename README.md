@@ -45,11 +45,11 @@ Scope
  Social Networks
  ---------------
  - https://t.me/FilmVault
- - https://twitter.com/FilmVault
+ - https://twitter.com/FilmVault_io
  - https://twitter.com/flickmaking
  - https://twitter.com/TheFaustFlick
  - https://twitter.com/caressinghearts
- - https://www.facebook.com/FilmVault/
+ - https://www.facebook.com/FilmVault.io/
  - https://www.facebook.com/estudios.amazonia
  - https://www.linkedin.com/company/estudios-amazonia/
 
