@@ -31,7 +31,7 @@ Scope
  TFF Promoting Team
  ------------------
  - g.a. mercado - project leader             - mercado.ga@gmail.com
- - e.a. mercado - digital ecosystem leader   - mercado.ea@email.com
+ - e.a. mercado - digital ecosystem adviser  - mercado.ea@email.com
 
  White Paper
  -----------
