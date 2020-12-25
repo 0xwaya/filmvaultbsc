@@ -3,7 +3,7 @@ Film Vault
 
 Description
 -----
-Learn, Invest & Profit from the $23B Independent Film Industry.
+Learn, Invest & Profit from the $28B Independent Film Industry.
 
 Scope
 -----
