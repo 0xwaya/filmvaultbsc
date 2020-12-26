@@ -7,24 +7,25 @@ Learn, Invest & Profit from the $23B Independent Film Industry.
 
 Scope
 -----
- - Whitepaper V1  ✔
- - FBB Special Purpose Vehicle V1 ✔
+ - Whitepaper v1  ✔
+ - FBB Special Purpose Vehicle v1 ✔
  - Tier 3 Media • Bounty Campaign  ✔
  - Bounty Completion ✔
- - Whitepaper V2 ✔
- - FVP Special Purpose Vehicle V2 ✔
+ - Whitepaper v2 ✔
+ - FVP Special Purpose Vehicle v2 ✔
  - Tier 1 Media • Presale • Initial Public Offering
 
  Roadmap
  ------
- - Whitepaper V1            [ Q1 - 2019 ] ✔
- - FBB SPV V1 (ERC-20)      [ Q2 - 2019 ] ✔
+ - Whitepaper v1            [ Q1 - 2019 ] ✔
+ - FBB SPV v1 (ERC-20)      [ Q2 - 2019 ] ✔
  - Tier 3 Media             [ Q3 - 2019 ] ✔
  - Bounty Campaign          [ Q3 - 2019 ] ✔
  - Bounty Completion        [ Q4 - 2019 ] ✔
- - Whitepaper V2            [ Q4 - 2020 ] ✔
+ - Whitepaper v2            [ Q4 - 2020 ] ✔
  - Presale • Tier 1 Media   [ Q1 - 2021 ]
  - DeFi Launch • IPO        [ Q1 - 2021 ]
+ - FVP=FBB Swaps            [ Q1 - 2021 ]
  - Dapp Deployment          [ Q1 - 2021 ]
 
 
