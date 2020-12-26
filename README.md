@@ -26,7 +26,7 @@ Scope
  - Presale • Tier 1 Media   [ Q1 - 2021 ]
  - DeFi Launch • IPO        [ Q1 - 2021 ]
  - FVP=FBB Swaps            [ Q1 - 2021 ]
- - Dapp Deployment          [ Q1 - 2021 ]
+ - Dapp Deployment          [ Q2 - 2021 ]
 
 
  TFF Promoting Team
