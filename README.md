@@ -8,28 +8,28 @@ Learn, Invest & Profit from the $23B Independent Film Industry.
 Scope
 -----
  - Whitepaper v1  ✔
- - FBB Special Purpose Vehicle v1 ✔
+ - FBB Special Purpose Vehicle ✔
  - Tier 3 Media • Bounty Campaign  ✔
  - Bounty Completion ✔
  - Whitepaper v2 ✔
- - FVP Special Purpose Vehicle v2 ✔
+ - FilmVault Special Purpose Vehicle ✔
  - Tier 1 Media • Presale • Initial Public Offering
 
  Roadmap
  ------
  - Whitepaper v1            [ Q1 - 2019 ] ✔
- - FBB SPV v1 (ERC-20)      [ Q2 - 2019 ] ✔
+ - FBB SPV (ERC-20)         [ Q2 - 2019 ] ✔
  - Tier 3 Media             [ Q3 - 2019 ] ✔
  - Bounty Campaign          [ Q3 - 2019 ] ✔
  - Bounty Completion        [ Q4 - 2019 ] ✔
  - Whitepaper v2            [ Q4 - 2020 ] ✔
  - Presale • Tier 1 Media   [ Q1 - 2021 ]
  - DeFi Launch • IPO        [ Q1 - 2021 ]
- - FVP=FBB Swaps            [ Q1 - 2021 ]
+ - FilmVault=FBB Swaps      [ Q1 - 2021 ]
  - Dapp Deployment          [ Q2 - 2021 ]
 
 
- TFF Promoting Team
+ Film Vault Promoting Team
  ------------------
  - g.a. mercado - project leader             - mercado.ga@gmail.com
  - e.a. mercado - digital ecosystem adviser  - mercado.ea@email.com
