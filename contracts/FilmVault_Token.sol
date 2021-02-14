@@ -337,17 +337,19 @@ contract FilmVault_Token is ERC20Pausable {
   symbol = "FilmVault";
   decimals = 9;
   stage = 0;
-  tokensToMint[0] = 51000000000000;
-  tokensToMint[1] = 100000000000000;
-  tokensToMint[2] = 49000000000000;
-  tokensToMint[3] = 100000000000000;
-  tokensToMint[4] = 100000000000000;
+  tokensToMint[0] = 9000000000000;
+  tokensToMint[1] = 36000000000000;
+  tokensToMint[2] = 100000000000000;
+  tokensToMint[3] = 6000000000000;
+  tokensToMint[4] = 49000000000000;
   tokensToMint[5] = 100000000000000;
   tokensToMint[6] = 100000000000000;
   tokensToMint[7] = 100000000000000;
   tokensToMint[8] = 100000000000000;
   tokensToMint[9] = 100000000000000;
   tokensToMint[10] = 100000000000000;
+  tokensToMint[11] = 100000000000000;
+  tokensToMint[12] = 100000000000000;
   }
 
   function mintFilmVault() public onlyOwner returns (bool) {
