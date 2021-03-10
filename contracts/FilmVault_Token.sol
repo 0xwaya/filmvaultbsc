@@ -353,7 +353,7 @@ contract FilmVault_Token is ERC20Pausable {
   }
 
   function mintFilmVault() public onlyOwner returns (bool) {
-    require (stage <=10);
+    require (stage <=12);
     _mint(creator, tokensToMint[stage]);
     stage = stage.add(1);
     return true;
