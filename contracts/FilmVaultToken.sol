@@ -2,7 +2,7 @@
 pragma solidity ^0.7.0;
 
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.4.0-solc-0.7/contracts/presets/ERC20PresetMinterPauser.sol";
-import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.4.0-solc-0.7/token/ERC20/ERC20Capped.sol";
+import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/v3.4.0-solc-0.7/contracts/token/ERC20/ERC20Capped.sol";
 
 contract FilmVaultToken is ERC20PresetMinterPauser, ERC20Capped {
     constructor (uint256 cap) ERC20PresetMinterPauser("FilmVault", "FilmVault") ERC20Capped(cap) {
