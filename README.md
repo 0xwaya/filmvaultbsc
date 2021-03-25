@@ -13,7 +13,7 @@ Scope
  - Bounty Completion ✔
  - Whitepaper v2 ✔
  - FilmVault Special Purpose Vehicle ✔
- - Tier 1 Media • Presale • Initial Public Offering
+ - Tier 1 Media • Presale • Initial Offering
 
  Roadmap
  ------
@@ -58,5 +58,5 @@ Scope
 
  Publications
  ------------
- - https://medium.com/@flickmaking
+ - https://flickmaking.medium.com/
  - https://github.com/estudios-amazonia/FilmVault
