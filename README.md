@@ -29,14 +29,13 @@ Scope
  - Private Sale         [ Q2 - 2021 ]
  - FilmVault=FBB Swaps  [ Q3 - 2021 ]
  - Web3 dApp Launch     [ Q4 - 2021 ]
- - DaPP Offering  h     [ Q4 - 2021 ]
+ - DaPP Offering        [ Q4 - 2021 ]
 
 
  Film Vault Promoting Team
  ------------------
  - g.a. mercado - project leader
  - mercado.ga@gmail.com, director@estudios-amazonia.com
-
  - e.a. mercado - digital ecosystem adviser
  - mercado.ea@email.com, fvp@filmvault.io
 
@@ -49,14 +48,13 @@ Scope
  ---------------
  - https://FilmVault.io
  - https://FilmVault.io/es/
-
  - https://estudios-amazonia.com
  - https://estudios-amazonia.com/es/
 
  Social Networks
  ---------------
  - https://t.me/FilmVault
- - https://t.me/FilmVault_ES 
+ - https://t.me/FilmVault_ES
  - https://twitter.com/FilmVault_io
  - https://twitter.com/flickmaking
  - https://twitter.com/TheFaustFlick
