@@ -39,7 +39,7 @@ Scope
  - e.a. mercado - digital ecosystem adviser
  - mercado.ea@email.com, fvp@filmvault.io
 
- White Paper
+ Whitepapers
  -----------
  - https://estudios-amazonia.com/FilmVault_WP.pdf
  - https://estudios-amazonia.com/FilmVault_WP_ES.pdf
