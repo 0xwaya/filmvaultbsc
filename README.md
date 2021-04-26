@@ -13,7 +13,8 @@ Scope
  - Bounty Completion ✔
  - Whitepaper v2 ✔
  - FilmVault Special Purpose Vehicle ✔
- - Tier 1 Media • Presale • Initial Offering
+ - Initial Dex Offering ✔
+ - Private Sale
 
  Roadmap
  ------
@@ -23,31 +24,39 @@ Scope
  - Bounty Campaign      [ Q3 - 2019 ] ✔
  - Bounty Completion    [ Q4 - 2019 ] ✔
  - Whitepaper v2        [ Q4 - 2020 ] ✔
- - Smart Contract v2    [ Q2 - 2021 ]
- - Presales             [ Q2 - 2021 ]
- - Tier 1 Media         [ Q2 - 2021 ]
- - Initial Offering     [ Q2 - 2021 ]
+ - Smart Contract v2    [ Q2 - 2021 ] ✔
+ - Initial Dex Offering [ Q2 - 2021 ] ✔
+ - Private Sale         [ Q2 - 2021 ]
  - FilmVault=FBB Swaps  [ Q3 - 2021 ]
  - Web3 dApp Launch     [ Q4 - 2021 ]
+ - DaPP Offering  h     [ Q4 - 2021 ]
 
 
  Film Vault Promoting Team
  ------------------
- - g.a. mercado - project leader             - mercado.ga@gmail.com
- - e.a. mercado - digital ecosystem adviser  - mercado.ea@email.com
+ - g.a. mercado - project leader
+ - mercado.ga@gmail.com, director@estudios-amazonia.com
+
+ - e.a. mercado - digital ecosystem adviser
+ - mercado.ea@email.com, fvp@filmvault.io
 
  White Paper
  -----------
  - https://estudios-amazonia.com/FilmVault_WP.pdf
+ - https://estudios-amazonia.com/FilmVault_WP_ES.pdf
 
  WebSites
  ---------------
  - https://FilmVault.io
+ - https://FilmVault.io/es/
+
  - https://estudios-amazonia.com
+ - https://estudios-amazonia.com/es/
 
  Social Networks
  ---------------
  - https://t.me/FilmVault
+ - https://t.me/FilmVault_ES 
  - https://twitter.com/FilmVault_io
  - https://twitter.com/flickmaking
  - https://twitter.com/TheFaustFlick
@@ -58,5 +67,6 @@ Scope
 
  Publications
  ------------
+ - https://docs.filmvault.io/
  - https://flickmaking.medium.com/
  - https://github.com/estudios-amazonia/FilmVault
