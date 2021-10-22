@@ -3,7 +3,7 @@ Film Vault
 
 Description
 -----
-Learn, Invest & Profit from the $23B Independent Film Industry.
+Film Vault Protocol (FILM) is an dApp to disrupt the film industry with a film launch pad and staking protocol.
 
 Scope
 -----
